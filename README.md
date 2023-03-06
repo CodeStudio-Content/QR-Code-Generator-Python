@@ -18,6 +18,12 @@
 
 This is a simple QR code generator made using Python and Tkinter. It allows you to generate QR codes for  URL that you input, and save them as image files.
 
+## Blog
+
+Check out our project blog post for more information on the development process and our thoughts on the QR Code Generator project:
+
+* [QR Code Generator using python](https://www.codingninjas.com/codestudio/library/building-a-qr-code-generator-in-python?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-qr-code-generator-in-python)
+
 ## Requirements
 
 1. Python 3.x
